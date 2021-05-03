@@ -8,3 +8,5 @@ category: 'desarrollador'
 
 <a href='https://annexare.github.io/Countries/'>Counties List</a>
 <a href='https://countries.trevorblades.com/'>Playground</a>
+
+![countries](/images/graphql/graphql-query-countries.png)
