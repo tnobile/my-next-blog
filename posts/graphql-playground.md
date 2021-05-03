@@ -6,10 +6,14 @@ category: 'desarrollador'
 
 # Resources
 * <a href='https://annexare.github.io/Countries/'>Counties List</a>
-* <a href='https://countries.trevorblades.com/'>https://countries.trevorblades.com/</a>
+* <https://countries.trevorblades.com/'>
 * <a href='https://blog.graphqleditor.com/best-graphql-apis-to-play-with/'>API to play with</a>
 * <a href='https://github.com/byrichardpowell/Country-Quiz'>Country-Quiz [React, TypeScript, Apollo] </a>
 * <a href='https://www.apollographql.com/docs/tutorial/client/'>Apollo tutorial [React]</a>
+* <https://graphql.org/swapi-graphql>
+* <https://api.spacex.land/graphql/>
+* <https://docs.github.com/en/graphql/overview/explorer>
+* <https://www.howtographql.com/graphql-js/0-introduction/>
 
 ## basically...
 continents return continent list (all or with filter)
@@ -41,6 +45,20 @@ query{
 query{
   language(code:"es") { name code native}
 }  
+
+
+Starwards:
+{
+  allPlanets {
+    planets {name orbitalPeriod gravity climates diameter}}
+}
+{
+  allFilms { films {title director producers releaseDate}}
+}
+{
+  allFilms { films {title director producers releaseDate 
+    planetConnection {planets {name}}}}
+}
 ```
 
 <!---
