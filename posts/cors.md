@@ -1,6 +1,7 @@
 ---
 title: 'CORS: Cross-Origin Resource Sharing'
 date: '2021-05-01'
+category: 'desarrollador'
 ---
 
 # CORS: qué es y cómo funciona el cross-origin resource sharing
@@ -27,3 +28,5 @@ app.get("/", (req, res) => {
   request(url).pipe(res);
 });
 ```
+
+It's also possible to use Azure Functions to do the same!
