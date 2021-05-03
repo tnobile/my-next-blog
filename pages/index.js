@@ -21,11 +21,12 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Me llamo Chihiro de Sento Chihiro no kamikakushi!</p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
+        <p>Me llamo Chihiro de Sento Chihiro no Kamikakushi!</p>
+        <ul>
+          <li>Spirited Away</li>
+          <li>El viaje de Chihiro</li>
+          <li><a href='https://ghibli.fandom.com/wiki/Spirited_Away' target="_blank" rel='noopener noreferrer'>千と千尋の神隠し</a></li>
+        </ul>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
