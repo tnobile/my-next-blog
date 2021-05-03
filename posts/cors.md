@@ -10,7 +10,7 @@ Cuando se abre una página web, cargar datos de servidores ajenos está, en teor
 
 ## Proxying with Express 
 <a href='https://www.telerik.com/blogs/supporting-cors-by-proxying-requests-with-express'>Supporting CORS by Proxying Requests with Express</a>
-```
+```js
 app.use((req, res, next) => {
   res.header("Access-Control-Allow-Origin", "*");
   next();
