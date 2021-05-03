@@ -1,6 +1,7 @@
 ---
 title: 'Por y Para'
 date: '2021-04-28'
+category: Espanol
 ---
 
 
