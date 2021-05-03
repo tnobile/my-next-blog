@@ -4,12 +4,14 @@ date: '2021-05-03'
 category: 'desarrollador'
 ---
 
-# GraphQL country list 
-<a href='https://annexare.github.io/Countries/'>Counties List</a>
+# Resources
+* <a href='https://annexare.github.io/Countries/'>Counties List</a>
+* <a href='https://countries.trevorblades.com/'>https://countries.trevorblades.com/</a>
+* <a href='https://blog.graphqleditor.com/best-graphql-apis-to-play-with/'>API to play with</a>
+* <a href='https://github.com/byrichardpowell/Country-Quiz'>Country-Quiz [React, TypeScript, Apollo] </a>
+* <a href='https://www.apollographql.com/docs/tutorial/client/'>Apollo tutorial [React]</a>
 
-# GraphQL playgroud
-<a href='https://countries.trevorblades.com/'>Playground</a>
-
+## basically...
 continents return continent list (all or with filter)
 continent must be queried with code
 
