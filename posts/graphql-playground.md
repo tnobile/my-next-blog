@@ -7,6 +7,7 @@ category: 'desarrollador'
 # Resources
 * <a href='https://annexare.github.io/Countries/'>Counties List</a>
 * <https://countries.trevorblades.com/'>
+* <https://github.com/trevorblades/countries/tree/master/examples/react>
 * <a href='https://blog.graphqleditor.com/best-graphql-apis-to-play-with/'>API to play with</a>
 * <a href='https://github.com/byrichardpowell/Country-Quiz'>Country-Quiz [React, TypeScript, Apollo] </a>
 * <a href='https://www.apollographql.com/docs/tutorial/client/'>Apollo tutorial [React]</a>

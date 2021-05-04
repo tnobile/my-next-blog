@@ -6,6 +6,7 @@ category: 'desarrollador'
 
 ## Data
 <https://tnobile.github.io/data-world-cities/>
+<https://simplemaps.com/data/ch-cities>
 
 ## React Table
 <https://tnobile.github.io/my-react-cities/>
