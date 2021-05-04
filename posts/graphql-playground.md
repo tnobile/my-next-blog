@@ -46,7 +46,12 @@ query{
 query{
   language(code:"es") { name code native}
 }  
-
+query{
+ languages(filter:{ code : {eq:"ja"}}) {name native code}
+ country(code:"JP"){code name currency native languages {name native code}}
+ countries(filter: {code :{ regex: "^E.*"}}){name native code}
+ continents(filter:{code:{eq:"AS"}}) { name countries {name currency native languages {name native}}}
+}
 
 Starwards:
 {
