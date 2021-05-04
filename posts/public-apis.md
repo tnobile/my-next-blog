@@ -7,5 +7,6 @@ category: 'desarrollador'
 * <http://swapi.tech>
 * <https://public.opendatasoft.com/explore/dataset/worldcitiespop/table/?disjunctive.country&sort=population>
 * <https://type.fit/api/quotes>
+* <https://zenquotes.io>
 * <https://api.tfl.gov.uk>
 * <https://github.com/public-apis/public-apis>
