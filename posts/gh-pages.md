@@ -5,6 +5,7 @@ category: 'desarrollador'
 ---
 
 ## gh-pages
+
 ```
 npm install gh-pages –save-dev
 
@@ -19,7 +20,10 @@ edit package.json
 }
 
 npm run dploy
-```yaml
+
+```
+
+
 
 ## error
 The "path" argument must be of type string. Received undefined
